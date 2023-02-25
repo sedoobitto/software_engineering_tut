@@ -15,9 +15,9 @@
 All of the following folders are projects done during the studies:
 | Project name | Description |
 | ------------ | ----------- |
-[`0x00-hello_world`](https://github.com/sedoobitto/software_engineering_tut/TUTZ/low_level_programming/tree/master/0x00-hello_world) | Learning entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language |
-[`0x01-variables_if_else_while`](https://github.com/sedoobitto/software_engineering_tut/TUTZ/low_level_programming/tree/master/0x01-variables_if_else_while) |Learning arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in C language  |
-[`0x02-functions_nested_loops`](https://github.com/sedoobitto/software_engineering_tut/TUTZ/low_level_programming/tree/master/0x02-functions_nested_loops) | Learning header files, functions, loops and nested loops in C language |
+[`0x00-hello_world`](https://github.com/sedoobitto/software_engineering_tut/tree/master/low_level_programming/0x00-hello_world) | Learning entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language |
+[`0x01-variables_if_else_while`](https://github.com/sedoobitto/software_engineering_tut/tree/master/low_level_programming/0x01-variables_if_else_while) |Learning arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in C language  |
+[`0x02-functions_nested_loops`](https://github.com/sedoobitto/software_engineering_tut/tree/master/low_level_programming/0x00-hello_world/0x02-functions_nested_loops) | Learning header files, functions, loops and nested loops in C language |
 [`0x03-debugging`](https://github.com/sedoobitto/software_engineering_tut/TUTZ/low_level_programming/tree/master/0x03-debugging) | Learning how to debug in C language |
 [`0x04-more_functions_nested_loops`](https://github.com/sedoobitto/software_engineering_tut/TUTZ/low_level_programming/tree/master/0x04-more_functions_nested_loops) | Learning about nested loops in C language | 
 [`0x05-pointers_arrays_strings`](https://github.com/sedoobitto/software_engineering_tut/TUTZ/low_level_programming/tree/master/0x05-pointers_arrays_strings) | Learning pointers and arrays in C language |
