@@ -1,3 +1,3 @@
 # C Programming
 
-#### This directory contains projects on pointes,arrays and strings.
+#### This directory contains projects on pointers,arrays and strings.
